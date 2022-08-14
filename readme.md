@@ -41,15 +41,15 @@ Please refer to **./object/run.sh** for all the settings for different methods a
 *All results of SCLM on three datasets is under the folder './results/'.*
 
 ### Citation
->@article{tang2022semantic,
->  title={Semantic consistency learning on manifold for source data-free unsupervised domain adaptation},
->  author={Tang, Song and Zou, Yan and Song, Zihao and Lyu, Jianzhi and Chen, Lijuan and Ye, Mao and Zhong, Shouming and Zhang, Jianwei},
->  journal={Neural Networks},
->  volume={152},
->  pages={467-478},
->  year={2022},
->  publisher={Elsevier}
->}
+-@article{tang2022semantic,
+-  title={Semantic consistency learning on manifold for source data-free unsupervised domain adaptation},
+-  author={Tang, Song and Zou, Yan and Song, Zihao and Lyu, Jianzhi and Chen, Lijuan and Ye, Mao and Zhong, Shouming and Zhang, Jianwei},
+-  journal={Neural Networks},
+-  volume={152},
+-  pages={467-478},
+-  year={2022},
+-  publisher={Elsevier}
+-}
 
 ### Acknowledgement
 
