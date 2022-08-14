@@ -1,6 +1,6 @@
 # SCLM
 
-Code (pytorch) for **Semantic Consistency Learning on Manifold for Source Data-absent Unsupervised Domain Adaptation** on Office-31, Office-Home, VisDA-C. This article is under review.
+Code (pytorch) for **Semantic Consistency Learning on Manifold for Source Data-absent Unsupervised Domain Adaptation** on Office-31, Office-Home, VisDA-C. This article have been accepted by Neural Networks.
 
 ### Framework
 
